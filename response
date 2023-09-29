@@ -1,0 +1,7 @@
+{
+  "id": 1,
+  "name": "Dr. Shiva",
+  "specialization": "Cardiologist",
+  "available_days": ["Monday", "Wednesday", "Friday"],
+  "available_slots": ["18:00", "18:30", "19:00"]
+}
